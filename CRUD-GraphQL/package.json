@@ -1,0 +1,21 @@
+{
+  "name": "desafio-salestime---nodejs",
+  "version": "1.0.0",
+  "description": "Desafio para construir uma API em NodeJS para gerenciar os usuários da Salestime, construindo um CRUD de usuários completo.",
+  "main": "server.js",
+  "scripts": {
+    "devStart": "nodemon src/server.js"
+  },
+  "author": "CarolSN",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "graphql": "^0.13.2",
+    "graphql-yoga": "^0.0.0",
+    "mongoose": "^6.0.6"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0",
+    "nodemon": "^2.0.12"
+  }
+}
