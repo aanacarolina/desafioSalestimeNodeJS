@@ -1,10 +1,11 @@
 # desafioSalestimeNodeJS
 Desafio para construir uma API em NodeJS para gerenciar os usuários da Salestime, construindo um CRUD de usuários completo.
 
+Nessa tentativa iria fazer a API utilizando GraphQL, cheguei a ver algumas vídeo aulas, porém devido ao tempo, que já estava estourado inclsuive, não consegui realizar, porém consegui entender o conceito e inclusive acredito preferir em oportunidades futuras utilizar essa stack. 
+
 # 🛠 Instalação e configuração
 ## Pré-requisitos:
 
-MongoDB - COMPASS
 MongoDB Atlas
 Nodejs
 Vscode - ou IDE de preferencia
