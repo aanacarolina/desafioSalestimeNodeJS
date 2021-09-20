@@ -1,12 +1,6 @@
 # desafioSalestimeNodeJS
 Desafio para construir uma API em NodeJS para gerenciar os usuários da Salestime, construindo um CRUD de usuários completo.
 
-# 🛠 Instalação e configuração
-## Pré-requisitos:
+# ATENÇÃO
 
-<br> 
-Clonar o repositório:
-
-```bash
-$ git clone https://github.com/aanacarolina/desafioSalestimeNodeJS.git
-```
+Ler os readmes individuais de cada pasta para mais info.
